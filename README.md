@@ -1,2 +1,2 @@
-# Insider
+# Insiders
 CodeFunDo++
