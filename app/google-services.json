@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "239212148328",
+    "firebase_url": "https://mappy-4bd7e.firebaseio.com",
+    "project_id": "mappy-4bd7e",
+    "storage_bucket": "mappy-4bd7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239212148328:android:207e385184335e27",
+        "android_client_info": {
+          "package_name": "com.example.sankalp.mappy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239212148328-t1d3422g08i5c5e7horh6jnfbh67rp55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLl431SB7i46HiWfx5moh6IpcmCi0euNY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
